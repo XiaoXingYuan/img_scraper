@@ -1,6 +1,6 @@
 使用教程：
 
-1.開啓img_scraper.py
+1.開啓img scraper.py
 
 2.輸入網址然後Enter
 
