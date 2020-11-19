@@ -36,6 +36,7 @@ def download(tag):
 
 
 def main():
+    global soup, times, img_count
     getInfo()
     soup = BeautifulSoup(page.content, 'html.parser')  # 獲取&分析網頁源代碼
     times = 0
